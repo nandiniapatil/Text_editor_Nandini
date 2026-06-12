@@ -1,5 +1,6 @@
 #include "main.h"
 int child_p;
+// nandu
 char *external_cmd[150];
 char *builtins[] = {"echo", "printf", "read", "cd", "pwd", "pushd", "popd", "dirs", "let", "eval",
 						"set", "unset", "export", "declare", "typeset", "readonly", "getopts", "source",
